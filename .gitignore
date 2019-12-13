@@ -21,4 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-/.idea/*
+/.idea/
+/.idea/azureSettings.xml
+/.idea/compiler.xml
+/.idea/hotswap_agent.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
